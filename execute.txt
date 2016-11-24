@@ -1,0 +1,5 @@
+Execution steps:
+1. rootdir path should be /wx_data floder path
+2. target path should be /answers folder path
+3. Go to src floder 
+4. Run the program by this command 'python problem1.py' 
